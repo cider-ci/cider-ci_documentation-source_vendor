@@ -1,0 +1,17 @@
+*.a
+*.bundle
+*.gem
+*.o
+*.so
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/build
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+mkmf.log
+/assets/stylesheets/bootswatch/
